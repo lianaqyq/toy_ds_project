@@ -1,3 +1,3 @@
 # toy_ds_project
-
-project creation date Feb 2
+project creation date:Feb 2
+author:Liana Que
